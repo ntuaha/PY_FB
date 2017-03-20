@@ -1,0 +1,28 @@
+{
+  "name": "py_fb",
+  "version": "1.0.0",
+  "description": "將fb app user id 轉換成 fb user id",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntuaha/PY_FB.git"
+  },
+  "author": "aha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntuaha/PY_FB/issues"
+  },
+  "homepage": "https://github.com/ntuaha/PY_FB#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb-base": "^11.1.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
